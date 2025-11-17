@@ -275,10 +275,10 @@ if __name__ == "__main__":
 
 
 ## Output:
-
-<img width="1498" height="784" alt="image" src="https://github.com/user-attachments/assets/4c031a8a-915f-4abd-beb7-3130380d2f73" />
+<img width="495" height="353" alt="image" src="https://github.com/user-attachments/assets/fb428dcf-a0b0-4c07-b247-b453238e0a45" />
 <img width="1486" height="627" alt="image" src="https://github.com/user-attachments/assets/ba734ef2-aeb2-4c2f-a505-1aab70fa94d0" />
-<img width="1492" height="292" alt="image" src="https://github.com/user-attachments/assets/5ee65fff-23fa-445c-a4b2-660035fda068" />
+<img width="407" height="150" alt="image" src="https://github.com/user-attachments/assets/c846e649-6a08-42bb-b446-b8ee32242528" />
+
 
 
 ## Result:
